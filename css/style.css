@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.login {
+    display: flex;
+}
+
+
+
+.form__logo {
+    display: flex;
+    margin-left: 200px;
+}
+
+.form__title {
+    margin-left: 120px;
+}
+
+.form__google {
+    display: flex;
+    padding: 7.5px 108.29px 8px 108.71px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #455EED;
+    background: transparent;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.home {
+    margin-top: 170px;
+}
+
+.login__img {
+    margin-left: 300px;
+}
+
+.form__btn {
+    display: flex;
+    max-height: 32px;
+    padding: 7.5px 156.31px 8.5px 156.69px;
+    justify-content: center;
+    border: none;
+    border-radius: 8px;
+    background: #A7A5A5;
+margin-left: 100px;
+margin-top: 15px;
+}
+
+.form__gmail {
+    margin: 20px;
+    padding: 7.5px 75.29px 8px 108.71px;
+    border-radius: 8px;
+    margin: 20px;
+    padding: 7.5px 75.29px 8px 108.71px;
+    margin-left: 100px;
+    border: none;
+    background:#d6d6d6 ;
+}
+
+.form__check {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 100px;
+}
+
+.form__password {
+    padding: 7.5px 75.29px 8px 108.71px;
+    border-radius: 8px;
+    margin-left: 100px;
+background:#d6d6d6 ;
+}
+
+.form__checkbox {
+    margin: 5px;
+}
+.login__over{
+margin-top:300px ;
+margin-left: 150px;
+
+}
